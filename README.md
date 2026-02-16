@@ -1,5 +1,3 @@
-# Coin Flip Bias & Probability Analysis
-
 # Coin Toss Probability and Surface Analysis
 
 **Course:** CSElec 01: Computational Science
@@ -42,7 +40,7 @@ This script analyzes our specific group data. It compares 100 flips of a 5-Peso 
 
 <td><img src="assets/group6_compare.gif" width="300">
 
-<sub>Comparative Analysis</sub></td>
+<sub>Combined Analysis</sub></td>
 
 </tr>
 </table>
