@@ -49,6 +49,93 @@ This script analyzes our specific group data. It compares 100 flips of a 5-Peso 
 
 This script aggregates data by surface type. It compares the results of flips performed on Wood (Groups 1 to 8) against those performed on Tiles (Groups 9 to 15).
 
+<table>
+<tr>
+<td><img src="assets/canvass_1.gif" width="300">
+
+<sub>1A (Wood)</sub></td>
+
+<td><img src="assets/canvass_2.gif" width="300">
+
+<sub>1B (Wood)</sub></td>
+
+<td><img src="assets/canvass_3.gif" width="300">
+
+<sub>2 (Wood)</sub></td>
+
+</tr>
+<tr>
+<td><img src="assets/canvass_4.gif" width="300">
+
+<sub>5A (Wood)</sub></td>
+
+<td><img src="assets/canvass_5.gif" width="300">
+
+<sub>5B (Wood)</sub></td>
+
+<td><img src="assets/canvass_6.gif" width="300">
+
+<sub>10A (Wood)</sub></td>
+
+</tr>
+<tr>
+<td><img src="assets/canvass_7.gif" width="300">
+
+<sub>10B (Wood)</sub></td>
+
+<td><img src="assets/canvass_8.gif" width="300">
+
+<sub>1A (Tiles)</sub></td>
+
+<td><img src="assets/canvass_9.gif" width="300">
+
+<sub>1B (Tiles)</sub></td>
+
+</tr>
+<tr>
+<td><img src="assets/canvass_10.gif" width="300">
+
+<sub>5A (Tiles)</sub></td>
+
+<td><img src="assets/canvass_11.gif" width="300">
+
+<sub>5B (Tiles)</sub></td>
+
+<td><img src="assets/canvass_12.gif" width="300">
+
+<sub>10A (Tiles)</sub></td>
+
+</tr>
+<tr>
+<td><img src="assets/canvass_13.gif" width="300">
+
+<sub>10B (Tiles)</sub></td>
+
+<td><img src="assets/canvass_14.gif" width="300">
+
+<sub>20 (Wood)</sub></td>
+
+<td><img src="assets/canvass_15.gif" width="300">
+
+<sub>20 (Tiles)</sub></td>
+
+</tr>
+</table>
+Surface Comparison Totals
+
+<table>
+<tr>
+<td><img src="assets/wood_total.gif" width="460">
+
+<sub>Wood Surface Combined</sub></td>
+
+<td><img src="assets/tiles_total.gif" width="460">
+
+<sub>Tile Surface Combined</sub></td>
+
+</tr>
+</table>
+
 ### 3. All H & T (`all.py`)
 
 This script combines every flip from all 15 groups. It demonstrates the final convergence of the Law of Large Numbers using the complete dataset of 3100 points.
